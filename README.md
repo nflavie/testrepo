@@ -1,3 +1,3 @@
 # testrepo
 
-I mde a change
+I made a change
